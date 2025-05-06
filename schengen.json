@@ -1,0 +1,1085 @@
+[
+  {
+    "country": "France",
+    "code": "FR",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport (min. 3 months validity beyond return date)",
+          "2 recent passport-sized photos",
+          "Travel insurance with €30,000 coverage",
+          "Round-trip flight reservation",
+          "Hotel booking or accommodation proof",
+          "Proof of sufficient financial means",
+          "Cover letter stating purpose of visit"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Invitation letter from French company",
+          "Business cover letter from Indian company",
+          "Company bank statement (last 3 months)",
+          "Travel insurance",
+          "Return flight tickets",
+          "Passport and photographs"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "code": "DE",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "10-15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Passport with minimum 6-month validity",
+          "Travel medical insurance",
+          "Hotel reservations",
+          "Flight itinerary",
+          "Proof of sufficient funds",
+          "Travel itinerary",
+          "Visa application form and cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "10-15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Invitation from German company",
+          "Business cover letter",
+          "Evidence of business activity",
+          "Financial documents",
+          "Travel insurance",
+          "Confirmed flight and accommodation"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "code": "IT",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "2 passport-sized photographs",
+          "Travel insurance",
+          "Flight bookings",
+          "Hotel booking or invitation letter",
+          "Proof of finances",
+          "Visa application form and itinerary"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Invitation from Italian business partner",
+          "Business cover letter",
+          "Financial proof",
+          "Travel insurance",
+          "Round-trip flight itinerary",
+          "Accommodation proof"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "code": "ES",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Travel insurance",
+          "Flight and hotel booking",
+          "Proof of sufficient financial means",
+          "Visa application form",
+          "Cover letter explaining purpose of visit"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Company cover letter",
+          "Travel insurance",
+          "Flight itinerary",
+          "Hotel booking",
+          "Proof of funds"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "code": "NL",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "10-15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Passport",
+          "Visa form and photos",
+          "Travel insurance",
+          "Flight and hotel bookings",
+          "Bank statements",
+          "Purpose of travel letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "10-15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Invitation letter from Dutch company",
+          "Business letter from Indian employer",
+          "Travel insurance",
+          "Proof of travel and accommodation",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "code": "CH",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Travel insurance with €30,000 coverage",
+          "Hotel and flight bookings",
+          "Proof of financial means",
+          "Visa form and itinerary"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation",
+          "Cover letter",
+          "Travel medical insurance",
+          "Proof of accommodation and flights",
+          "Company bank statement"
+        ]
+      }
+    ]
+  },
+    {
+    "country": "Austria",
+    "code": "AT",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport (minimum 3 months validity)",
+          "2 passport-sized photos",
+          "Travel insurance with €30,000 coverage",
+          "Round-trip flight booking",
+          "Hotel reservation",
+          "Proof of financial means",
+          "Cover letter explaining travel purpose"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Invitation letter from Austrian company",
+          "Cover letter from Indian company",
+          "Travel insurance",
+          "Flight and accommodation details",
+          "Company bank statement",
+          "Proof of business activities"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Belgium",
+    "code": "BE",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Passport with minimum 6-month validity",
+          "2 passport-size photographs",
+          "Travel insurance",
+          "Round-trip flight tickets",
+          "Hotel booking confirmation",
+          "Proof of sufficient funds",
+          "Cover letter mentioning travel plan"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Invitation from Belgian business partner",
+          "Business cover letter",
+          "Proof of past business activities",
+          "Travel insurance",
+          "Flight and accommodation bookings",
+          "Company financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "code": "CZ",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Denmark",
+    "code": "DK",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Finland",
+    "code": "FI",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Greece",
+    "code": "GR",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Hungary",
+    "code": "HU",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Iceland",
+    "code": "IS",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Latvia",
+    "code": "LV",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Liechtenstein",
+    "code": "LI",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "code": "LT",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "code": "LU",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Malta",
+    "code": "MT",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Norway",
+    "code": "NO",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "code": "PL",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form and photo",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Proof of sufficient funds",
+          "Detailed travel itinerary",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from Indian employer",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business activity",
+          "Financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "code": "BG",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa application form",
+          "Passport-sized photographs",
+          "Travel insurance",
+          "Proof of accommodation",
+          "Round-trip flight reservation",
+          "Proof of sufficient funds"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Invitation from Bulgarian company",
+          "Letter from Indian employer",
+          "Travel medical insurance",
+          "Flight and hotel bookings",
+          "Company bank statements"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Croatia",
+    "code": "HR",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Visa form and photographs",
+          "Travel insurance",
+          "Proof of accommodation",
+          "Return flight reservation",
+          "Proof of sufficient financial means"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Invitation from Croatian company",
+          "Business cover letter",
+          "Travel insurance",
+          "Flight and accommodation proofs",
+          "Proof of business relation"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Portugal",
+    "code": "PT",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Passport with at least 3-month validity",
+          "Travel insurance",
+          "Round-trip tickets",
+          "Hotel reservation",
+          "Proof of financial means",
+          "Cover letter explaining travel purpose"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Cover letter from employer",
+          "Proof of travel and accommodation",
+          "Company financials",
+          "Travel insurance"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Romania",
+    "code": "RO",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Passport",
+          "Travel insurance",
+          "Hotel booking",
+          "Flight reservation",
+          "Proof of funds",
+          "Visa application form and photos"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation",
+          "Letter from Indian company",
+          "Travel insurance",
+          "Proof of accommodation and return flight",
+          "Company bank statements"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "code": "SK",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Passport",
+          "Travel insurance",
+          "Flight tickets",
+          "Hotel bookings",
+          "Proof of sufficient funds",
+          "Cover letter explaining travel plan"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 calendar days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Letter of invitation",
+          "Employer’s letter",
+          "Travel insurance",
+          "Accommodation and travel proofs",
+          "Business and financial documents"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "code": "SI",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "15 days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Passport with validity 3 months post return",
+          "Travel insurance",
+          "Round-trip flight",
+          "Accommodation confirmation",
+          "Proof of sufficient funds",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "15 days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation letter",
+          "Letter from employer",
+          "Travel insurance",
+          "Financial proof",
+          "Flight and accommodation details"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "region": "Schengen",
+    "visaTypes": [
+      {
+        "type": "Tourist Visa",
+        "processingTime": "10-15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Valid passport",
+          "Travel insurance",
+          "Flight and hotel bookings",
+          "Proof of funds",
+          "Visa application form",
+          "Cover letter"
+        ]
+      },
+      {
+        "type": "Business Visa",
+        "processingTime": "10-15 working days",
+        "visaValidity": "90 days",
+        "maxStay": "90 days",
+        "visaFees": "€80",
+        "documentsRequired": [
+          "Business invitation",
+          "Employer letter",
+          "Proof of travel and stay",
+          "Financial documents",
+          "Travel insurance"
+        ]
+      }
+    ]
+  }
+]
