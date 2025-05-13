@@ -9,7 +9,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport (min. 3 months validity beyond return date)",
           "2 recent passport-sized photos",
@@ -25,7 +25,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Invitation letter from French company",
           "Business cover letter from Indian company",
@@ -47,7 +47,7 @@
         "processingTime": "10-15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Passport with minimum 6-month validity",
           "Travel medical insurance",
@@ -63,7 +63,7 @@
         "processingTime": "10-15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Invitation from German company",
           "Business cover letter",
@@ -85,7 +85,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges"+ VFS Charge + Service Charge  ,
         "documentsRequired": [
           "Valid passport",
           "2 passport-sized photographs",
@@ -93,6 +93,7 @@
           "Flight bookings",
           "Hotel booking or invitation letter",
           "Proof of finances",
+          "Occupation Details",
           "Visa application form and itinerary"
         ]
       },
@@ -101,7 +102,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Invitation from Italian business partner",
           "Business cover letter",
@@ -123,7 +124,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Travel insurance",
@@ -138,7 +139,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Company cover letter",
@@ -160,7 +161,7 @@
         "processingTime": "10-15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Passport",
           "Visa form and photos",
@@ -175,7 +176,7 @@
         "processingTime": "10-15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Invitation letter from Dutch company",
           "Business letter from Indian employer",
@@ -196,7 +197,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Travel insurance with €30,000 coverage",
@@ -210,7 +211,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation",
           "Cover letter",
@@ -231,7 +232,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport (minimum 3 months validity)",
           "2 passport-sized photos",
@@ -247,7 +248,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Invitation letter from Austrian company",
           "Cover letter from Indian company",
@@ -269,7 +270,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Passport with minimum 6-month validity",
           "2 passport-size photographs",
@@ -285,7 +286,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Invitation from Belgian business partner",
           "Business cover letter",
@@ -307,7 +308,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -323,7 +324,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -345,7 +346,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -361,7 +362,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -383,7 +384,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -399,7 +400,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -421,7 +422,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -437,7 +438,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -459,7 +460,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -475,7 +476,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -497,7 +498,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -513,7 +514,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -535,7 +536,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -551,7 +552,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -573,7 +574,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -589,7 +590,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -611,7 +612,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -627,7 +628,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -649,7 +650,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -665,7 +666,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -687,7 +688,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -703,7 +704,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -725,7 +726,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -741,7 +742,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -763,7 +764,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -779,7 +780,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -801,7 +802,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form and photo",
@@ -817,7 +818,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from Indian employer",
@@ -839,7 +840,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa application form",
@@ -855,7 +856,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Invitation from Bulgarian company",
           "Letter from Indian employer",
@@ -876,7 +877,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Visa form and photographs",
@@ -891,7 +892,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Invitation from Croatian company",
           "Business cover letter",
@@ -912,7 +913,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Passport with at least 3-month validity",
           "Travel insurance",
@@ -927,7 +928,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Cover letter from employer",
@@ -948,7 +949,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Passport",
           "Travel insurance",
@@ -963,7 +964,7 @@
         "processingTime": "15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation",
           "Letter from Indian company",
@@ -984,7 +985,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Passport",
           "Travel insurance",
@@ -999,7 +1000,7 @@
         "processingTime": "15 calendar days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Letter of invitation",
           "Employer’s letter",
@@ -1020,7 +1021,7 @@
         "processingTime": "15 days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Passport with validity 3 months post return",
           "Travel insurance",
@@ -1035,7 +1036,7 @@
         "processingTime": "15 days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation letter",
           "Letter from employer",
@@ -1056,7 +1057,7 @@
         "processingTime": "10-15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Valid passport",
           "Travel insurance",
@@ -1071,7 +1072,7 @@
         "processingTime": "10-15 working days",
         "visaValidity": "90 days",
         "maxStay": "90 days",
-        "visaFees": "€80",
+        "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
           "Business invitation",
           "Employer letter",
