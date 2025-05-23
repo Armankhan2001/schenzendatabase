@@ -49,11 +49,13 @@
         "maxStay": "90 days",
         "visaFees": "€90 + Visa Fees + Service Charges",
         "documentsRequired": [
-          "Passport with minimum 6-month validity",
+          "Passport with minimum 6-month validity ",
+          "Old Passport if any ",
+          "Recent 2 Photos: (Size: 35 x 45mm, White Background, Mat Finish, 80% Face without Specs)",
           "Travel medical insurance",
           "Hotel reservations",
           "Flight itinerary",
-          "Proof of sufficient funds",
+          "Proof of sufficient funds (Bank & ITR)",
           "Travel itinerary",
           "Visa application form and cover letter"
         ]
